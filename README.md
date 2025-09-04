@@ -1,2 +1,4 @@
 # Git-Demo
-Demo &amp; Tutorial
+My First Git Repository.
+<br>
+Author- ATHARVA NERIKAR.
